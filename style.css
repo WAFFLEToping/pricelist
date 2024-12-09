@@ -156,6 +156,7 @@ body {
 }
 
 .quantity {
+    color: #666;
     margin: 0 10px;
     font-size: 16px;
     font-weight: bold;
